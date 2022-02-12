@@ -13,9 +13,9 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="min-h-screen grid place-content-center place-items-center">
+      <main className="grid min-h-screen place-content-center place-items-center">
         <h1 className="text-5xl font-black">Welcome to QuickStarter!</h1>
-        <p className="text-xl mt-2">
+        <p className="mt-2 text-xl">
           A Next.js + Tailwind CSS + TypeScript + Prisma boilerplate.
         </p>
       </main>
