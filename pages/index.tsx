@@ -8,7 +8,7 @@ const Home: NextPage = () => {
         <title>QuickStarter</title>
         <meta
           name="description"
-          content="A Next.js + Tailwind CSS + TypeScript + Prisma boilerplate."
+          content=" Next.js, Tailwind CSS, Supabase boilerplate. Includes checkout with Stripe."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -16,7 +16,8 @@ const Home: NextPage = () => {
       <main className="grid min-h-screen place-content-center place-items-center">
         <h1 className="text-5xl font-black">Welcome to QuickStarter!</h1>
         <p className="mt-2 text-xl">
-          A Next.js + Tailwind CSS + TypeScript + Prisma boilerplate.
+          Next.js, Tailwind CSS, Supabase boilerplate. Includes checkout with
+          Stripe.
         </p>
       </main>
     </>
